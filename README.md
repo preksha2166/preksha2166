@@ -25,10 +25,15 @@ Here are some of my key projects:
 - **Databases:** MySQL, Firebase
 - **Web Development:** HTML, CSS, JavaScript
 
+## 📊 GitHub Stats & Activity
+
+![Preksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preksha2166&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preksha2166&layout=compact&theme=radical)
+
 ## 📫 Connect with Me
 - 💼 LinkedIn: [Your Profile](#)
 - 🌐 Portfolio: [Coming Soon]
 - 📩 Email: [Your Email](#)
 
 ✨ _Let's collaborate on AI projects and make something awesome!_ 🚀
-
