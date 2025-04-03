@@ -32,7 +32,7 @@ Here are some of my key projects:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=preksha2166&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [Your Profile](#)
+- 💼 LinkedIn: [PrekshaDewoolkar](https://www.linkedin.com/in/preksha-prashant-dewoolkar-2224512a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 Portfolio: [Coming Soon]
 - 📩 Email: [Your Email](#)
 
