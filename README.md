@@ -33,7 +33,7 @@ Here are some of my key projects:
 
 ## 📫 Connect with Me
 - 💼 LinkedIn: [PrekshaDewoolkar](https://www.linkedin.com/in/preksha-prashant-dewoolkar-2224512a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 Portfolio: [MyPortfolio](https://preksha2166.github.io/myportfolio/index.html)
+- 🌐 Portfolio: [MyPortfolio](https://preksha2166.github.io/Portfolio_version_2/)
 - 📩 Email: [MyMail](officialpreksha2166@gmail.com)
 
 ✨ _Let's collaborate on AI projects and make something awesome!_ 🚀
